@@ -1,6 +1,6 @@
 # macro-alpha
 
-Alpha research pipeline for ~55 global macro futures and FX forwards. It builds six signal families, tests each against five pre-registered gates, combines the survivors and writes tear sheets. This is the code for the *Global Macro Alpha Research: 3-Week Plan*.
+Alpha research pipeline for ~55 global macro futures and FX forwards. It builds six signal families, tests each against five pre-registered gates, combines the survivors and writes tear sheets. 
 
 ## Quick start
 
